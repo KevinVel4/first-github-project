@@ -103,5 +103,5 @@ a:visited{
 .categories li{
     padding-right: 7px;
     border-bottom: dotted 1px brown;
-    list-style-image: url(/images/download.png);
+    list-style-image: url(´/image/dog.png`);
 }
